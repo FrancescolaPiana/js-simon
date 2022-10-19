@@ -28,3 +28,22 @@
 #corr{
     color: rgb(0, 213, 85);
 }
+
+#red{
+    color: rgb(255, 255, 255);
+    background-color: red;
+    border-radius: 20px;
+    padding: 10px 75px;
+}
+
+#restart{
+    background-color: green;
+    padding: 10px 30px;
+    color: aliceblue;
+    font-size: 100px;
+    border-radius: 50%;
+}
+
+.spacer{
+    height: 80px;
+}
